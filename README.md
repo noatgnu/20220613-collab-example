@@ -1,5 +1,5 @@
 # 20220613-collab-example
 
 ## Contributors
-- Scott Gruber
-- Toan Phung
+- Scott Gruber, UCLA
+- Toan Phung, University of Bindy
